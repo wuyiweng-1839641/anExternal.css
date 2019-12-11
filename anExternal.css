@@ -1,0 +1,54 @@
+#Header {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  border: solid 8px black;
+  text-align: center;
+}
+
+#Header h1{
+  font-size: 60px;
+  font-family: "Passion One";
+  color: #EE82EE;
+}
+
+#LeftNav  {
+  width: 400px;
+  float: right;
+  padding-bottom: 8px;
+}
+
+#Content  {
+  width: 700px;
+  padding: 15px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+p {
+    font-weight: bold;
+    color: white;
+    font-family: "ariel"
+}
+
+div {
+  background-color: #87CEEB
+}
+
+body {
+  background-image: url('sky.png');
+}
+
+a {
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+#Footer {
+  color: black;
+}
